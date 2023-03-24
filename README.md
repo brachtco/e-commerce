@@ -8,7 +8,7 @@ packages needed for this application are MySQL2, Express,js and Sequelize.
 
 ## Installation
 
-npm install dotenv  
+npm install dotenv     
 npm install express  
 npm install mysql2  
 npm install sequelize  
