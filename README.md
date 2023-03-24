@@ -15,9 +15,10 @@ npm install sequelize
 
 ## Usage
 
+
 Screenshot of the Walkthough Presentation:
 
-<img width="2365" alt="Screenshot 2023-03-24 at 1 10 37 PM" src="https://user-images.githubusercontent.com/17559972/227618499-71d38ef5-c235-4802-91cb-5adf626fb268.png">
+<img width="2365" alt="Screenshot 2023-03-24 at 1 10 37 PM" src="https://user-images.githubusercontent.com/17559972/227618955-97fef659-5913-4bb6-aa46-98fd817ef8a2.png">
 
 Link to the Walkthrough Presentation:
 
