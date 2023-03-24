@@ -28,6 +28,7 @@ https://drive.google.com/file/d/1E3ZSAtopmUc-6c8qwYjz9BPwrqvXl2a3/view
 ## License
 
 MIT
+https://opensource.org/license/mit/
 
 ## Links
 
