@@ -8,10 +8,10 @@ packages needed for this application are MySQL2, Express,js and Sequelize.
 
 ## Installation
 
-npm install dotenv
-npm install express
-npm install mysql2
-npm install sequelize
+npm install dotenv  
+npm install express  
+npm install mysql2  
+npm install sequelize  
 
 ## Usage
 
@@ -33,7 +33,7 @@ MIT
 
 Screencast presentation of E-cCommerce Back End: https://drive.google.com/file/d/1E3ZSAtopmUc-6c8qwYjz9BPwrqvXl2a3/view
 
-GitHub Repo: 
+GitHub Repo: https://github.com/brachtco/e-commerce
 
 
 
